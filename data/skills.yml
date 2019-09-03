@@ -1,0 +1,37 @@
+# Effective Communications
+- skill: Personal
+  discription: 
+   Adaptability
+   Self-motivation
+   Team work
+   Communication
+
+- skill: Technical
+  discription:
+  Mac OSX
+  MicrosoS Office
+  Code_Blocks
+  Java
+  C
+  
+#  Linux and *nix based systems
+# - skill: Linux and &ast;nix based systems
+#   description: I love Linux, and let's be honest, who doesn't? Almost all of my experience is on Linux machines, and I feel most at home with a terminal in front of me. Linux isn't all I've done though, I have rudimentary experience with BSD (FreeBSD and OpenBSD), SunOS/Solaris, and even GNU Hurd :D
+
+#   OpenShift Management
+# - skill: Website management
+#   description: Managing Websites are one of the first things I learned how to do, whether it be making a simple single page and database setup, or looking after a big-site, I'm confident in my ability to diagnose and solve issues.
+
+#  Configuration Management
+# - skill: Configuration Management
+#   description: Chef, Puppet, Ansible, SaltStack, I've done it all and try to use them whenever the opportunity allows it.
+
+
+#  Databases
+# - skill: Databases
+#   description: I have some very knowledge with databases, but I feel it worth listing. I've dealt with MariaDB, MySQL, MSSQL, and PostgreSQL, as well as some non-relational databases like Redis, MongoDB and MemcacheDB.
+
+#  Non-specific skills
+# - skill: Non-specific skills
+#   description: These are technologies I've worked and some i'm still learning with that I didn't feel were important enough to get their own listing, they include&#58; LAMP stacks and their variations (Apache / PHP / Python, MongoDB / MySQL / SQL).
+

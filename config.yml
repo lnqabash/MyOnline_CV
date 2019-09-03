@@ -1,0 +1,63 @@
+# Site settings
+title: "Lindani Mkhululi Nqabashe"
+description: "My simple online CV"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Lindani Nqabashe"
+resume_title:                   "Junior Developer that is still learning and willing to learn more."
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "lindaninqabashe@outlook.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "+27 63 841 3363"
+resume_contact_address:         "280 Gele Street, Katlehong, 1431"
+
+resume_header_contact_info:     "280 Hlongwane Sec, Katlehong, 1431 • +27 63 841 3363 • lindaninqabashe@outlook.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>An enthusiastic versatile young person with an excellent attitude towards work. For the past two years I have been a student at a largest ODL institute in Africa which has taught me to be discipline and to be able to work as an individual or as part of a team..</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+#resume_section_projects:        true
+resume_section_skills:          true
+#resume_section_recognition:     true
+#resume_section_links:           false
+resume_section_associations:    false
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/lnqabash"
+  # resume_twitter_url:           "https://twitter.com/samuel_mcebo"
+# resume_dribbble_url:          "https://dribbble.com/#"
+  resume_facebook_ url:          "https://www.facebook.com/lindanemkhululi.sthole"
+  resume_linkedin_url:          "https://www.linkedin.com/in/lindani-nqabashe-8679a1187/"
+  #resume_instagram_url:         "insert your Instagram URL here"
+  #resume_website_url:           "#"
+  #  resume_medium_url:            "https://medium.com/@lnqabash"
+  resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
