@@ -1,18 +1,9 @@
 # Effective Communications
 - skill: Personal
-  discription: 
-   Adaptability
-   Self-motivation
-   Team work
-   Communication
+  discription: Adaptability, Self-motivation, Team work, Communication
 
 - skill: Technical
-  discription:
-  Mac OSX
-  MicrosoS Office
-  Code_Blocks
-  Java
-  C
+  discription: Mac OSX, MicrosoS Office, Code_Blocks, Java, C
   
 #  Linux and *nix based systems
 # - skill: Linux and &ast;nix based systems
